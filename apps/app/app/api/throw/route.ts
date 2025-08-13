@@ -1,0 +1,1 @@
+export async function GET() { throw new Error("Sentry smoke test from /api/throw"); }
